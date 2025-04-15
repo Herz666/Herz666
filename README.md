@@ -12,6 +12,4 @@
 
     📫 How to reach me: e-mail : tojoherizorakotonyaina@gmai.com or via LinkedIn linkedin.com/in/Tojo Herizo RAKOTONIAINA
 
-    😄 Pronouns: He/Him (change as needed)
-
     ⚡ Fun fact: I once simulated a particle collision using only NumPy and coffee. ☕🚀
