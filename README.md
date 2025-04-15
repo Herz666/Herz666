@@ -8,7 +8,7 @@
 
     🤔 I’m looking for help with integrating quantum algorithms into physics simulations and applying deep learning to real experimental data.
 
-    💬 Ask me about: Kolmogorov–Arnold networks, hybrid quantum-classical models, data-driven physics, or anything at the frontier of AI and physics.
+    💬 Ask me about:  hybrid quantum-classical models, data-driven physics, or anything at the frontier of AI and physics.
 
     📫 How to reach me: e-mail : tojoherizorakotonyaina@gmai.com or via LinkedIn linkedin.com/in/Tojo Herizo RAKOTONIAINA
 
